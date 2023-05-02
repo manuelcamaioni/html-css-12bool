@@ -9,7 +9,7 @@ section{
 .row > *{
     background-color: #006cfa;
     color: white;
-    padding: 1rem 0;
+    padding: 1.5rem 0;
     text-align: center;
     border: 2px solid white;
 }
