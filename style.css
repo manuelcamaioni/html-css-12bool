@@ -2,10 +2,18 @@
     background-color: #006cfa;
 }
 
+.row > *{
+    background-color: #006cfa;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+    margin: 1px;
+}
+
 .green-bg{
     background-color: #01e165;
 }
 
-.row > *{
-    background-color: #006cfa;
+.col-6 .row{
+    padding: 0 1rem;
 }
