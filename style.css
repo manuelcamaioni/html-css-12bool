@@ -1,3 +1,7 @@
+section{
+    margin-bottom: 2rem;
+}
+
 .blue-bg{
     background-color: #006cfa;
 }
@@ -7,7 +11,7 @@
     color: white;
     padding: 1rem 0;
     text-align: center;
-    margin: 1px;
+    border: 2px solid white;
 }
 
 .green-bg{
@@ -16,4 +20,8 @@
 
 .col-6 .row{
     padding: 0 1rem;
+}
+
+.nested{
+    border: 2px solid #006cfa;
 }
