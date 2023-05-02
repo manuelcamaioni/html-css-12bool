@@ -1,0 +1,11 @@
+.blue-bg{
+    background-color: #006cfa;
+}
+
+.green-bg{
+    background-color: #01e165;
+}
+
+.row > *{
+    background-color: #006cfa;
+}
