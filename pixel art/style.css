@@ -2,6 +2,10 @@ body{
     scale: 0.4;
 }
 
+.container{
+    max-width: 100%;
+}
+
 .black{
     background-color: black;
 }
