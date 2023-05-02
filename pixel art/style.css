@@ -1,0 +1,31 @@
+body{
+    scale: 0.6;
+}
+
+.black{
+    background-color: black;
+}
+
+.superdarkpink{
+    background-color: #b97270;
+}
+
+.darkpink{
+    background-color: #cf9b9a;
+}
+
+.pink{
+    background-color: #e3c6c5;
+}
+
+.lightblue{
+    background-color: #9bc8cc;
+}
+
+.blue{
+    background-color: #65979b;
+}
+
+.row > *{
+    height: 47.6px;
+}
